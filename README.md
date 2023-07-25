@@ -62,9 +62,8 @@ D. Kişisel Verileri İşlenen Kişi Olarak Haklarınız
 Cloptime'ın bu maddeleri değiştirme ve düzenleme hakkını saklı tutar. 
 ```
 
-```
-English Privacy Policy;
-```
+# English Privacy Policy;
+
 ```
 A. Login
 
