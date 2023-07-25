@@ -1,4 +1,4 @@
-Cloptime Bot Gizlilik Sözleşmesi;
+# Cloptime Bot Gizlilik Sözleşmesi;
 ```
 Dil Seçenekleri/Language options: Türkçe, İngilizce
 ```
