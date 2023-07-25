@@ -1,0 +1,2 @@
+# CloptimeBot
+Cloptime Discord Bot
